@@ -20,17 +20,18 @@ The Google Colaboratory notebooks within are intended to provide a way to genera
 ### Setting up to run training or prediction
 
 The code and utilities will be expecting a file structure like this on Google Drive:
--_My Drive_
--___yolov3_
--_____checkpoints
--_____test
--________output
--________samples
--___________bbox
--___CS231A_project
--________Data
--___________test_3D_yolov3
--___________train_3D_yolov3
+
+- __My Drive__
+-    __yolov3__
+-      __checkpoints__
+-      __test__
+-        __output__
+-        __samples__
+-          __bbox__
+- __CS231A_project__
+-    __Data__
+-      __test_3D_yolov3__
+-      __train_3D_yolov3__
 
 
 To use the model for training or prediction:
